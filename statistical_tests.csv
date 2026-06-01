@@ -1,0 +1,3 @@
+Test,Statistic,p-value,Interpretation
+Kruskal-Wallis (PnL across sentiments),H = 1226.996,0.0000,Significant difference ✅
+Pearson r (F&G vs Daily Avg PnL),r = 0.0373,0.4152,Positive correlation — traders earn more during greed phases
